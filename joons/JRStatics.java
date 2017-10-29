@@ -11,8 +11,8 @@ public class JRStatics {
 	
 	//sys constants
 	public static final String JR_VERSION = "v1.02";
-	public static final String UNRENDERED_FILE_NAME = "captured.png";
-	public static final String RENDERED_INV_FILE_NAME = "rendered.png";
+	public static final String UNRENDERED_FILE_NAME = "data\captured.png";
+	public static final String RENDERED_INV_FILE_NAME = "data\rendered.png";
 	
 	//sys variables, default unless modified 
 	public static PApplet P;
